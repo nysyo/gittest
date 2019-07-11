@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 gittest
-||||||| merged common ancestors
-git‚ÌƒeƒXƒg
-=======
-gitnotest
->>>>>>> develop
