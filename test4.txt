@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-test2
-||||||| merged common ancestors
-=======
-test2
->>>>>>> conflict
